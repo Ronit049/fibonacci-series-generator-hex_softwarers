@@ -22,7 +22,10 @@ This project demonstrates:
 * Logical thinking
 
 ---
+## 📸 Project Screenshot
 
+![Fibonacci Output](https://github.com/Ronit049/fibonacci-series-generator-hex_softwarers/blob/main/fibonacci_numbers_project_1_SS.png)
+---
 ## 🚀 Features
 
 * Generate Fibonacci series up to *n* terms
